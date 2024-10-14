@@ -25,9 +25,9 @@
 </head>
 <body class="stretched">
         <div class="col-md-12 hed">
-            <center>
-            <h1>Edit Meter Reading Data</h1>
-            </center>
+          
+            <h1 class="text-center">Edit Meter Reading Data</h1>
+       
         </div>
         <section id="content">
             <div class="content-wrap">
