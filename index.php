@@ -28,12 +28,7 @@
 </head>
 <body class="stretched">
     <div id="wrapper" class="clearfix">
-        <section id="page-title">
-            <div class="container clearfix hed">
-                <center>
-                </center>
-            </div>
-        </section>
+
         <div class="col-md-12 hed">
             <center>
                 <h1>Insert utility meter readings</h1>
